@@ -1,0 +1,157 @@
+
+
+body{
+	height: 100%;
+	width: 100%;
+	background-color: black;
+
+
+	
+
+}
+
+
+
+#conteiner{
+	height: 100%;
+	width: 100%;
+	background-color: none;
+
+
+	
+
+}
+#conteiner h1:hover{
+	height: 100%;
+	width: 100%;
+	background-color: #5E1EAB ;
+	 transition: 0.3s;
+	 border-radius: 10em;
+
+
+	
+
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid #e91e63;
+    color: #fff;
+    text-decoration: none;
+    background: #e91e63;
+    border-radius: 2em;
+}
+
+.btn:hover {
+    background: none;
+    transition: 0.3s;
+
+
+}
+
+
+
+
+
+
+
+.box-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: centers;
+}
+
+.box-container .box {
+    height: 300px;
+    width: 270px;
+    background: #171717;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .3);
+    margin: 20px;
+}
+
+.box-container .box i {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    color: #fff;
+    background: #e91e63;
+    font-size: 25px;
+    margin: 10px 0;
+}
+
+
+.box-container .box i:hover {
+    background: #570BD4;
+    transition: 0.5s;
+}
+
+
+.box-container .box h3 {
+    font-size: 20px;
+    color: #e91e63;
+}
+
+
+.box-container .box h2 {
+    font-size: 20px;
+    color: #5E1EAB;
+}
+
+.box-container .box h2:hover {
+    background: #B5B1C5;
+    border-radius: 0.5em;
+    padding: 6px 5px;
+    transition: 0.5s;
+}
+
+
+
+
+.box-container .box p {
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+
+  
+.box-container .box img:hover {
+	transition: 0.4s;
+    transform: scale(2);
+
+
+
+
+}
+
+
+
+.botn {
+    display: inline-block;
+    margin-top: 7px;
+    padding: 10px 10px;
+    border: 2px solid #e91e63;
+    color: #fff;
+    text-decoration: none;
+    background: #e91e63;
+    border-radius: 1.5em;
+}
+
+.botn:hover {
+    background: none;
+    transition: 0.5s;
+}
+
+#sub:hover{
+	background: #5E1EAB ;
+	 transition: 0.5s;
+	 border-radius: 10em;
+	
+}
+
